@@ -25,7 +25,7 @@ function App() {
     <>
       <div className="container">
         <h1 className="tv-heading">
-          <span>Name Creation</span>
+          <span>Naha N Hassan</span>
         </h1>
 
         <label>First Name:</label>
